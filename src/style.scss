@@ -1,0 +1,13 @@
+
+@font-face {
+  font-family: 'QuattrocentoSans';
+  src: url('./fonts/QuattrocentoSans-Regular.woff2') format('woff2'),
+  url('./fonts/QuattrocentoSans-Regular.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.hello {
+  color: red;
+  font-family: QuattrocentoSans, sans-serif;
+}
